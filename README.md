@@ -1,3 +1,3 @@
 # something
 
-Download confirm.7z and decompress it.
+Download confirm.zip and decompress it.
